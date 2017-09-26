@@ -1,0 +1,2 @@
+v1.0	26/9/2017
+	Sửa vài lỗi nhỏ khi gửi ảnh
